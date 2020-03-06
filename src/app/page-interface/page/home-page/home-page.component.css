@@ -1,0 +1,14 @@
+
+
+/* button {white-space: normal; font-size: 15px; line-height:1;
+  padding: 15px 15px; background: #65c9eb; border: 1px solid #1E90FF;} */
+
+mat-expansion-panel-header {height: unset !important; white-space: normal; padding: 15px 15px;}
+
+.acord {
+  width: 300px;
+  background-image: unset;
+}
+
+.mat-expansion-panel-header { background: whitesmoke;}
+.mat-expansion-panel { background: #d3dbff;}
